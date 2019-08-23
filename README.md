@@ -19,7 +19,7 @@ You can use the "Search" feature on this repository to find topics.
 Here are some GitHub handles that you may find useful.
 This will be updated throughout the semester with team handles.
 
-| Person(s) | Role | GitHub Handel |
+| Person(s) | Role | GitHub Handle |
 |-----------|------|---------------|
 |Bradford Dykes | Instructor | `@dykesb` |
 
